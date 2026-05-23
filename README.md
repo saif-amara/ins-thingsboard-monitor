@@ -87,5 +87,6 @@ python main.py
 
 ## 👤 Author
 
-**Saif Eddine Amara**
-Teaching Assistant — Robotics Lab, ISSAT Sousse
+Saif Eddine Amara
+Embedded Systems Engineering Student — ISSAT Sousse, Tunisia
+Teaching Assistant, Robotics Lab
